@@ -21,11 +21,10 @@ I am continuously learning more about technology everyday and its exciting to sa
 
 | **Category** |  **Tools & Languages** | 
 | :---         | :---                   |
-| Languages 	 | C++, C#, Java, Python, MySQL, JavaScript, C, Bash, GDScript, GShader, Lua, JavaScript, Rust, Visual Basic|
+| Languages 	 | C++, C#, Java, Python, MySQL, JavaScript, Bash, GDScript, JavaScript, Visual Basic|
 | Development  | Visual Studio, VS Code, Nano, Vim,  Github Desktop, Git, CMake, Make, Docker |
-| Game Development | Godot, Unity, C++ (Windows API), Unreal Engine |
+| Game Development | Godot, Unity, Unreal Engine |
 | Graphics & Design | Libreprite, Blender |
-| Audio & Video | OBS Studio, Audacity, Kdenlive |
 | App Development | Android Studio, Visual Studio |
 | Networking | Docker, UDP/TCP, WebSockets, Headscale , Tailscale, ssh, Self-Hosted Services(Home server) |
 | Hardware | Circuit analysis/Development , PC or Laptop repair/maintenance/Assembly, Phone repair/maintenance, Server maintenance and repair |
