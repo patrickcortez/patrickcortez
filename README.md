@@ -1,5 +1,5 @@
 ![pixelforest](gif1.gif)
-> A Computer Engineering student aspiring to be a game developer
+> A Computer Engineering student aspiring to be a Game developer (est. 2026)
 ---
 
 ## About Myself
@@ -22,7 +22,7 @@ I am continuously learning more about technology everyday and its exciting to sa
 
 | **Category** |  **Tools & Languages** | 
 | :---         | :---                   |
-| Languages 	 | C++, C#, Java, Python, MySQL, JavaScript, Bash, GDScript, JavaScript, Visual Basic|
+| Languages 	 | C++, C#, Java, Python, MySQL, JavaScript, Bash, GDScript, Visual Basic|
 | Development  | Visual Studio, VS Code, Nano, Vim,  Github Desktop, Git, CMake, Make, Docker |
 | Game Development | Godot, Unity, Unreal Engine |
 | Graphics & Design | Libreprite, Blender |
