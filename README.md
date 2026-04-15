@@ -1,4 +1,4 @@
-![pixelforest](https://i.pinimg.com/originals/68/30/30/68303024d2caeb1c216be77b175da9b6.gif)
+![pixelforest](gif1.gif)
 > A Computer Engineering student aspiring to be a game developer
 ---
 
