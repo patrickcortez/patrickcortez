@@ -1,4 +1,6 @@
 ![pixelforest](gif1.gif)
+![CompEng](https://img.shields.io/badge/Computer-Engineering-brightgreen)   ![Static Badge](https://img.shields.io/badge/Developer-darkblue)   
+
 > A Computer Engineering student aspiring to be a Game developer (est. 2026)
 ---
 
