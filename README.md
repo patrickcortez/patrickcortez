@@ -13,7 +13,8 @@ Though I am mostly into Game development. My first programming langauge was C++,
 learning it. It was fun and exciting, because I had to solve problems logically in my code and implement features
 I want to implement all by my self and how would I implement the said feature, overall it was exilirating. Then
 after C++ it was with Visual Basic with WinForms, then Python,C#, Java, HTML, CSS, JavaScript, MySQL then I moved I learned
-setting up Linux Servers and setting up any OS in any machine, then got to experience networking alongside it. 
+setting up Linux Servers and setting up any OS in any machine, then got to experience networking alongside it. Then over the
+span of 2 years being a computer engineer, thought me alot, especially linux and hardware.
 
 I am continuously learning more about technology everyday and its exciting to say the least.
 
