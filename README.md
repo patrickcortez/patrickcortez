@@ -1,9 +1,8 @@
-# About Myself
-
 ![pixelforest](https://i.pinimg.com/originals/68/30/30/68303024d2caeb1c216be77b175da9b6.gif)
-
-![](![](https://komarev.com/ghpvc/?username=patrickcortez))
+> A Computer Engineering student aspiring to be a game developer
 ---
+
+## About Myself
 
 I am *Patrick Cortez* and I go by the alias of Tezzz2026 online and I am a 3rd year computer engineering Student
 in Iloilo City, Philippines. I am genuinely passionate about coding and I began coding about 2 years ago when
@@ -18,10 +17,43 @@ setting up Linux Servers and setting up any OS in any machine, then got to exper
 
 I am continuously learning more about technology everyday and its exciting to say the least.
 
+## Technical Stack
+
+| **Category** |  **Tools & Languages** | 
+| :---         | :---                   |
+| Languages 	 | C++, C#, Java, Python, MySQL, JavaScript, C, Bash, GDScript, GShader, Lua, JavaScript, Rust, Visual Basic|
+| Development  | Visual Studio, VS Code, Nano, Vim,  Github Desktop, Git, CMake, Make, Docker |
+| Game Development | Godot, Unity, C++ (Windows API), Unreal Engine |
+| Graphics & Design | Libreprite, Blender |
+| Audio & Video | OBS Studio, Audacity, Kdenlive |
+| App Development | Android Studio, Visual Studio |
+| Networking | Docker, UDP/TCP, WebSockets, Headscale , Tailscale, ssh, Self-Hosted Services(Home server) |
+| Hardware | Circuit analysis/Development , PC or Laptop repair/maintenance/Assembly, Phone repair/maintenance, Server maintenance and repair |
+| Documentation | Obsidian, WPS |
+
+## Focus
+
+My current focus:
+
+- **Development** : I'm mostly focused on making apps, games, low-level and any command-line tools.
+
+- **Documentation** : I am very interested in writing documentation as well, so thats also one of my main focuses, writing
+  docs in md, word and etc...
+
+- **Art** : Since I am focused in game development I am also focused in drawing art or modeling 3d figures in blender or Libresprite.
+
+- **Networking** : I am also very interested in networks and how other machines communicate at a distance, hence why I'm interested in Docker, VMS and VPS's
+  and also self hosting services in my Linux Server.
+
+- **Circuits and Hardware** ; As a Computer Engineer I am also focused on circuitry, As thats my one of my main focus as of right now.
+
+
+
 ## Socials
 
 - Discord: @tezzzz69
 - Reddit: https://www.reddit.com/user/Economy_Season_72
 - Dev.to: https://dev.to/tezzz2026
+- Email: patrickcortez736@gmail.com
 
 
