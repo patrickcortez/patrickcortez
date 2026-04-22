@@ -50,6 +50,13 @@ My current focus:
 - **Circuits and Hardware** ; As a Computer Engineer I am also focused on circuitry, As thats my one of my main focus as of right now.
 
 
+## Current Project/s
+
+1. **Enlang** a interpreted programming language developed in C# using Visual Studio for Educational Purposes.
+2. <TBD>
+
+
+
 
 ## Socials
 
