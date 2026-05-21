@@ -53,7 +53,8 @@ My current focus:
 ## Current Project/s
 
 1. **Enlang** a interpreted programming language developed in C# using Visual Studio for Educational Purposes.
-2. <TBD>
+2. **AurShell** a cross compatible front-end shell developed in C# to make the command-line aesthetically pleasing.
+3. **TSCL** aka "Tezz's Simple Config Language" is a flat configuration language that utilizes pointers for nested objects.
 
 
 
