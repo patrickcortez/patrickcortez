@@ -50,9 +50,9 @@ My current focus:
 - **Circuits and Hardware** ; As a Computer Engineer I am also focused on circuitry, As thats my one of my main focus as of right now.
 
 
-## Current Project/s
+## Finished Projects
 
-1. **Enlang** a interpreted programming language developed in C# using Visual Studio for Educational Purposes.
+1. **LevelFS** a custom written file-system made in C++, that utilizes levels in every directory.
 2. **AurShell** a cross compatible front-end shell developed in C# to make the command-line aesthetically pleasing.
 3. **TSCL** aka "Tezz's Simple Config Language" is a flat configuration language that utilizes pointers for nested objects.
 
@@ -65,5 +65,5 @@ My current focus:
 - Reddit: https://www.reddit.com/user/Economy_Season_72
 - Dev.to: https://dev.to/tezzz2026
 - Email: patrickcortez736@gmail.com
-
+- Linkedin: [Linkedin](https://www.linkedin.com/in/darkieee-plex-73246a399/?skipRedirect=true)
 
